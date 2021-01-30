@@ -1,10 +1,12 @@
 ### Hello world 
 
-👋 Welcome to my GitHub page!
+👋 Welcome to my GitHub account!
 
 😄 My pronouns are she/her/hers.
 
-🔭 I’m currently working creating educational resources and activities. Check out my work through Illinois WCS!
+🏫 I am a junior studying computer science at the University of Illinois at Urbana-Champaign with a minor in math. 
+
+🔭 I’m currently working creating educational resources and activities. Some of my work is available at [Illinois WCS](https://github.com/IllinoisWCS).
 
 🌱 I’m currently learning about machine learning applications for making positive impacts on the world and how to make learning resources more accessible for everyone.
 
