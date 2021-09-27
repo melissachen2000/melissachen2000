@@ -8,6 +8,6 @@
 
 🔭 Up until recently, I was working on creating educational resources and activities with an awesome co-chair and committee. Some of our work is available at [Illinois WCS Explorations](http://wcs.illinois.edu/explorations/index.html). I have since moved into a new position where I'm focused on feedback mechanisms, inclusion, and improving the member experience at [Illinois WCS Growth](https://go.illinoiswcs.org/growth-home).
 
-🌱 I’m currently learning about machine learning applications for making positive impacts on the world and how to make learning resources more accessible for everyone.
+🌱 I’m currently learning about intelligent tutoring systems!
 
-💻 Learn more about me [on my website](https://melissachen2000.github.io). 
+💻 Learn more about me [on my website](https://melissachen.notion.site). 
