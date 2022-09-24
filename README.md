@@ -4,12 +4,8 @@
 
 😄 My pronouns are she/her/hers.
 
-🏫 I am a senior studying computer science at the University of Illinois at Urbana-Champaign with a minor in math. 
+🏫 I am a PhD student at Northwestern University. I completed my undergraduate studies in computer science at the University of Illinois in May 2022.
 
-🔭 Last year, I was working on creating educational resources and activities with an awesome co-chair and committee. Some of our work is available at [Illinois WCS Explorations](http://wcs.illinois.edu/explorations/index.html). I have since moved into a new position where I'm focused on feedback mechanisms, inclusion, and improving the member experience at [Illinois WCS Growth](https://go.illinoiswcs.org/growth-home).
-
-💻 I'm also working with Girls Who Code @ UIUC to plan curriculum for outreach workshops!
-
-🌱 I’m currently learning about supporting individual and collaborative learning and working.
+🌱 I’m curious about how technology can be used to support students learning computer science.
 
 💻 Learn more about me [on my website](https://melissachen.notion.site). 
