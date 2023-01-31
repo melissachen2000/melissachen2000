@@ -6,6 +6,6 @@
 
 🏫 I am a PhD student at Northwestern University. I completed my undergraduate studies in computer science at the University of Illinois in May 2022.
 
-🌱 I’m curious about how technology can be used to support students learning computer science.
+🌱 I’m curious about how we can design technologies to support students' self-efficacy when learning computing
 
 💻 Learn more about me [on my website](https://melissachen2000.github.io). 
