@@ -1,11 +1,11 @@
-### Hello world 
+### Hello there! 
 
 👋 Welcome to my GitHub account!
 
 😄 My pronouns are she/her/hers.
 
-🏫 I am a PhD student at Northwestern University. I completed my undergraduate studies in computer science at the University of Illinois in May 2022.
+🏫 I am a PhD student at Northwestern University. My research is on how to design sociotechnical systems to support students in making accurate judgements about their programming ability to support their self-efficacy and motivation.
 
-🌱 I’m curious about how we can design technologies to support students' self-efficacy when learning computing
+🎓 I graduated from the University of Illinois at Urbana-Champaign in 2022 with a degree in computer science. I also minored in math.
 
-💻 Learn more about me [on my website](https://melissachen2000.github.io). 
+💻 Learn more about me [on my website](https://melissaychen.com/). 
