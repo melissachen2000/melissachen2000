@@ -1,7 +1,7 @@
 ### Hello there! 
 
-😄 My name is Melissa (she/her) and I am a PhD student at Northwestern University. My research is on how to design sociotechnical systems to support students in making accurate judgements about their programming ability to support their self-efficacy and motivation.
+👋 My name is Melissa (she/her) and I am a PhD student at Northwestern University in computer science. I research student self-efficacy and self-assessments, as well as how we can design systems to support students in making more accurate judgements of their programming abilities.
 
-🎓 I graduated from the University of Illinois at Urbana-Champaign in 2022 with a degree in computer science. I also minored in math.
+🎓 I studied computer science at the University of Illinois at Urbana-Champaign (class of 2022) where I also dabbled in machine learning and HCI research and backend software engineering internships.
 
-💻 Learn more about me [on my website](https://melissaychen.com/). 
+💻 My most up-to-date bio and news are [on my website](https://melissaychen.com/). 
